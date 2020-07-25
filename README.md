@@ -8,4 +8,4 @@ We are not able to use raw text to fitting a machine learning or deep learning m
 
 2. How to take a step up and use the more sophisticated methods in the NLTK library.
 
-But, before starting let's select our dataset. In this notebook, I will use text from Jalil Mammadguluzadeh who is notable Azerbaijani writer, great dramatist and democrat man-of-letter. The file includes a piece from writer’s narrative "Kishmish oyunu" story
+But, before starting let's select our dataset. In this notebook, I will use text from Jalil Mammadguluzadeh who is notable Azerbaijani writer, great dramatist and democrat man-of-letter. The file includes a piece from writer’s narrative "Kishmish oyunu" story.
